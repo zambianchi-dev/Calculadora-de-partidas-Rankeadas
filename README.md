@@ -17,4 +17,4 @@ A função `calculoPartidaRankeada` recebe a quantidade de vitórias e derrotas.
 Basta copiar o código do arquivo `index.js` e rodar em qualquer console JavaScript ou ambiente Node.js.
 
 ---
-Feito por [Seu Nome Aqui]
+Feito por [Zambianchi.dev](https://www.instagram.com/zambianchi.dev/)
